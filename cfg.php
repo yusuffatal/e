@@ -1,12 +1,12 @@
 <?php
-$android_id = "6cbb1afxxxxxxxx";
-$deviceCode = "8695450xxxxxxxx";
-$device_ip  = "202.80xxxxxxxxx";
-$token = "7d62FfijHQIvn0CnZLYJ8xxxxxxxxxxxxxxxxxx";
-$tk = "ACGQr00V8VRJ14emgw7yUOQ5xxxxxxxxxxxxxxxxxx";
-$uuid = "e1ac1cfe11f44xxxxxxxxxx";
-$userid = "71xxxxxxx";
-$sign = "0f72bab003xxxxxxxxxxxxx";
+$android_id = "09d78e78eca4efc9";
+$deviceCode = "861930042100954";
+$device_ip  = "36.75.140.198";
+$token = "70b2YIZ0hzYU4ERgtFzDTUa2mfibXV2xWaH92ZAY4x4GxnHLbNcUsNFos7zjLlKZtseIsqH323lokvY";
+$tk = "ACFaeMClwZpFK4obswo9BvLNF9aEKJ8FsOJxdHRodw";
+$uuid = "6cb9fe7e64e9458cae1a6c688db91684";
+$userid = "1515826";
+$sign = "ea1f8e1d4a4f056574d9fa7f18a6b140";
 
 ####################################################
 #|note:
